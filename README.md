@@ -34,7 +34,9 @@ deactivate
 
 ## Data Sources
 co2_clean.csv : Global Carbon Budget (2023), Population based on various sources (2023)
+
 precipitation_cereal_yield_clean.csv : https://www.theglobaleconomy.com
+
 temperature_clean.csv : Copernicus Climate Change Service (2024)
 
 
