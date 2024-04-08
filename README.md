@@ -33,11 +33,11 @@ When you're done working, you can deactivate the virtual environment by running:
 deactivate
 
 ## Data Sources
-co2_clean.csv : Global Carbon Budget (2023), Population based on various sources (2023)
+co2_clean.csv : Global Carbon Budget (2023); Population based on various sources (2023) – with major processing by Our World in Data. “Per capita CO₂ emissions – GCB” [dataset]. Global Carbon Project, “Global Carbon Budget”; Various sources, “Population” [original data]. Retrieved April 8, 2024 from https://ourworldindata.org/grapher/co-emissions-per-capita
 
 precipitation_cereal_yield_clean.csv : https://www.theglobaleconomy.com
 
-temperature_clean.csv : Copernicus Climate Change Service (2024) with major processing by Our World in Data
+temperature_clean.csv : Copernicus Climate Change Service (2024) – with major processing by Our World in Data. “2024” [dataset]. Copernicus Climate Change Service, “ERA5 monthly averaged data on single levels from 1940 to present 2” [original data].
 
 
 
