@@ -237,6 +237,7 @@ PyJWT @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_eec4
 pylint @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b4nhjj9cv2/croot/pylint_1676919902809/work
 pylint-venv @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3dahm2v5f3/croot/pylint-venv_1709837629826/work
 pyls-spyder==0.4.0
+pymannkendall==1.4.3
 pymc3==3.11.5
 pyobjc-core @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e7giy3a869/croots/recipe/pyobjc-core_1661848172499/work
 pyobjc-framework-Cocoa @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4c2umern3y/croots/recipe/pyobjc-framework-cocoa_1661850714385/work
