@@ -38,28 +38,28 @@ deactivate
 
 ## Repo Overview
 
-|--README.md
-|
-|--venv
-|
-|--requirements.txt  
-|
-|--python_scripts
-|    |--EDA_visuals.py
-|    |--hypothesis_test.py
-|    |--summary_analysis.py
-|    |--trend_tests.py
-|
-|--dataset
-|    |--dataframe.csv
-|
-|--sources
-|    |--co2_clean.csv
-|    |--precipitation_cereal_yield_clean.csv
-|    |--temperature_clean.csv
-|
-|--R_scripts
-     |--regression_model.R
+README.md
+
+venv
+
+requirements.txt  
+
+python_scripts
+  EDA_visuals.py
+  hypothesis_test.py
+  summary_analysis.py
+  trend_tests.py
+
+dataset
+  dataframe.csv
+
+sources
+  co2_clean.csv
+  precipitation_cereal_yield_clean.csv
+  temperature_clean.csv
+
+R_scripts
+  regression_model.R
      
 ## Running Instructions
 
