@@ -45,10 +45,10 @@ venv
 requirements.txt  
 
 python_scripts
-  EDA_visuals.py
+  [EDA_visuals.py
   hypothesis_test.py
   summary_analysis.py
-  trend_tests.py
+  trend_tests.py]
 
 dataset
   dataframe.csv
