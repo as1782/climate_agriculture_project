@@ -51,15 +51,15 @@ python_scripts
   trend_tests.py]
 
 dataset
-  dataframe.csv
+  [dataframe.csv]
 
 sources
-  co2_clean.csv
+  [co2_clean.csv
   precipitation_cereal_yield_clean.csv
-  temperature_clean.csv
+  temperature_clean.csv]
 
 R_scripts
-  regression_model.R
+  [regression_model.R]
      
 ## Running Instructions
 
