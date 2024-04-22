@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project uses a Python virtual environment to manage dependencies and requires the installation of R on your machine if you don't already have it. Follow the instructions in Environment Setup to set up your environment. This repository serves as a purpose to display the source code for this project moreover it allows for others to contribute work to this project. 
+This project uses a Python virtual environment to manage dependencies and requires the installation of R, an IDE such as R Studio and python on your machine if you don't already have it. Follow the instructions in Environment Setup to set up your environment. This repository serves as a purpose to display the source code for this project moreover it allows for others to contribute work to this project. 
 
 ## Environment Setup
 
@@ -62,8 +62,25 @@ R_scripts
   [regression_model.R]
      
 ## Running Instructions
+To generate the expected results, please follow the steps outlined below. Ensure that all necessary files are placed within the same directory to facilitate straightforward replication.
 
-In order to replicate the output. Ensure to have all the required files, in one directory for the ease of replication. Start with booting up python on your machine, then run the summary_analysis.py script first to get the summary table for the dataset. Next for the EDA section run the EDA_visuals.py script to get the graphs. For this section, plots can be made for specific countries, detailed instructions are in the script. Next section is the trend test, this trend test can also be performed on different geographic regions, this the also detailed in the trend_tests.py python script. The next section involves the hypothesis tests which can be run using the hypothesis_test.py script. Lastly for the regression analysis we will be utilising R, ensuring that you have R installed and an IDE for running the regression_model.R script such as Rstudio. Run the script ensuring the right dataset has been selected.
+### Data Summary
+1. To obtain a summary table of the dataset, execute the summary_analysis.py script. This script will output a comprehensive overview of the data at hand.
+
+### Exploratory Data Analysis (EDA)
+2. Execute the EDA_visuals.py script to produce the required graphical representations for the exploratory analysis. This script allows the creation of plots tailored to specific countries. For detailed instructions, please refer to the comments within the script itself.
+
+### Trend Analysis
+3. To conduct trend analysis on various geographic regions, execute the trend_tests.py script. Detailed guidelines for conducting these tests are included within the script.
+
+### Hypothesis Testing
+4. For hypothesis testing, execute the hypothesis_test.py script. This will carry out the necessary statistical tests as per the hypotheses defined.
+
+### Regression Analysis 
+5. Run the regression_model.R script on an IDE suitable for running R scripts. Make certain that the correct dataset is loaded before executing the script.
+
+### Alternative Regression Analysis in Python
+6. If you prefer using Python, an equivalent regression_model.py script is provided. This script replicates the regression model in the Python environment. Execute this script if you opt for a Python-based analysis.
 
 ## Data Sources
 co2_clean.csv : Global Carbon Budget (2023); Population based on various sources (2023) – with major processing by Our World in Data. “Per capita CO₂ emissions – GCB” [dataset]. Global Carbon Project, “Global Carbon Budget”; Various sources, “Population” [original data]. Retrieved April 8, 2024 from https://ourworldindata.org/grapher/co-emissions-per-capita
