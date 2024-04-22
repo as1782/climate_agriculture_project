@@ -79,8 +79,8 @@ To generate the expected results, please follow the steps outlined below. Ensure
 ### Regression Analysis 
 5. Run the regression_model.R script on an IDE suitable for running R scripts. Make certain that the correct dataset is loaded before executing the script.
 
-### Alternative Regression Analysis in Python
-6. If you prefer using Python, an equivalent regression_model.py script is provided. This script replicates the regression model in the Python environment. Execute this script if you opt for a Python-based analysis.
+### Alternative Regression Analysis in python
+6. If you prefer using python, an equivalent regression_model.py script is provided. Execute this script if you opt for a python-based analysis.
 
 ## Data Sources
 co2_clean.csv : Global Carbon Budget (2023); Population based on various sources (2023) – with major processing by Our World in Data. “Per capita CO₂ emissions – GCB” [dataset]. Global Carbon Project, “Global Carbon Budget”; Various sources, “Population” [original data]. Retrieved April 8, 2024 from https://ourworldindata.org/grapher/co-emissions-per-capita
