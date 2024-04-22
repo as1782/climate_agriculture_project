@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project uses a Python virtual environment to manage dependencies and requires the installation of R, an IDE such as R Studio and python on your machine if you don't already have it. Follow the instructions in Environment Setup to set up your environment. This repository serves as a purpose to display the source code for this project moreover it allows for others to contribute work to this project. 
+This project uses a python virtual environment to manage dependencies and requires the installation of R, an IDE such as R Studio and python on your machine if you don't already have it. Follow the instructions in Environment Setup to set up your environment. This repository serves as a purpose to display the source code for this project moreover it allows for others to contribute work to this project. 
 
 ## Environment Setup
 
