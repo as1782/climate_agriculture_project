@@ -83,7 +83,7 @@ To generate the expected results, please follow the steps outlined below. Ensure
 6. If you prefer using python, an equivalent regression_model.py script is provided. Execute this script if you opt for a python-based analysis.
 
 ### Causual Forest Analysis
-7. Run the causual_forest_model.py script, it fits the model and displays a summary table moreover there it also graphically displays the causual effects. In order to modify the code to set diffrent variables as treatment variables, outcome variables and control variables, guidelines are found within the script.
+7. Run the causual_forest_model.py script, it fits the model and displays a summary table. Moreover there is also a graphical display of the causual effects. In order to modify the code to set diffrent variables as treatment variables, outcome variables and control variables, guidelines are found within the script.
 
 ## Data Sources
 co2_clean.csv : Global Carbon Budget (2023); Population based on various sources (2023) – with major processing by Our World in Data. “Per capita CO₂ emissions – GCB” [dataset]. Global Carbon Project, “Global Carbon Budget”; Various sources, “Population” [original data]. Retrieved April 8, 2024 from https://ourworldindata.org/grapher/co-emissions-per-capita
